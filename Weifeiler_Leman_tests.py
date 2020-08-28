@@ -83,7 +83,6 @@ def TestDifferentNumberOfNodes(scheme):
         result = result + test_status.format(Name="TestDifferentNumberOfNodes",result="FAIL")
     pass
     return result
-    pass
 tests = [
     TestIdenticalGraphs,
     TestBasic,

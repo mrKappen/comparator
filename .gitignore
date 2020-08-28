@@ -6,3 +6,6 @@ mem_results_1
 mem_results_2
 optimized_module_1
 optimized_module_2
+dist
+*.egg-info
+build
